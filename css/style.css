@@ -208,7 +208,7 @@ figure {
         display: inline;
         list-style: none; }
         #colorlib-aside .colorlib-footer ul li a {
-          color: rgba(255, 255, 255, 0.3);
+          /* color: rgba(255, 255, 255, 0.3); */
           padding: 4px; }
           #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
             text-decoration: none;
@@ -1427,3 +1427,17 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+  /* social icons */
+  .s-icon-1{
+    color:rgba(0, 47, 255, 0.945);
+  }
+  .s-icon-2{
+    color:rgba(18, 221, 248, 0.87);
+  }
+  .s-icon-3{
+    color:rgb(255, 0, 106);
+  }
+  .s-icon-4{
+    color:rgb(0, 153, 255);
+  }
